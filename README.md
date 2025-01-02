@@ -28,8 +28,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[DIVYA-3112]&show_icons=true&hide=issues&count_private=true&title_color=3F88C5&icon_color=79D1C8&text_color=718096&bg_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?DIVYA-3112=[DIVYA-3112]&layout=compact&title_color=3F88C5&text_color=718096&bg_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DIVYA-3112&show_icons=true&hide=issues&count_private=true&title_color=3F88C5&icon_color=79D1C8&text_color=718096&bg_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYA-3112&layout=compact&title_color=3F88C5&text_color=718096&bg_color=ffffff" />
 </div>
 
 ---
