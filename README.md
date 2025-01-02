@@ -18,9 +18,6 @@ Welcome to my GitHub profile! I'm a passionate coder always eager to learn new t
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, Docker, VS Code
 
-## 🚀 Fun Coding Animations:
-![Hello World Animation](https://github.com/DIVYA-3112/DIVYA-3112/blob/main/hello-world-animation.gif)
-
 ## 📊 GitHub Stats:
 ![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIVYA-3112&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
