@@ -6,18 +6,16 @@
 
 ---
 
-<div align="left">
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-    <div>
-      ### 👩‍💻 About Me  
-      - 🌱 I’m currently learning **[Your Learning Focus]**.  
-      - 🎯 Goal: Master **[Your Goals]**.  
-      - 🛠 Passionate about **[Your Interests/Technologies]**.  
-      - 💬 Ask me about **[Your Expertise]**.  
-      - 📫 Reach me at **[your.email@example.com]**.
-    </div>
-    <img src="https://avatars.githubusercontent.com/u/123456789?s=400&v=4" alt="Profile Picture" height="150" style="border-radius: 50%; margin-left: 20px;"/>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    ### 👩‍💻 About Me  
+    - 🌱 I’m currently learning **[Your Learning Focus]**.  
+    - 🎯 Goal: Master **[Your Goals]**.  
+    - 🛠 Passionate about **[Your Interests/Technologies]**.  
+    - 💬 Ask me about **[Your Expertise]**.  
+    - 📫 Reach me at **[your.email@example.com]**.
   </div>
+  <img src="https://avatars.githubusercontent.com/u/123456789?s=400&v=4" alt="Profile Picture" height="150" style="border-radius: 50%; margin-left: 20px;"/>
 </div>
 
 ---
