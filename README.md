@@ -20,7 +20,7 @@
         </ul>
       </td>
       <td>
-        <img src="https://avatars.githubusercontent.com/u/123456789?s=400&v=4" alt="Profile Picture" height="150" style="border-radius: 50%;"/>
+        <img src="https://avatars.githubusercontent.com/u/123456789?s=400&v=4" alt="Profile Picture" height="200" style="border-radius: 50%;"/>
       </td>
     </tr>
   </table>
