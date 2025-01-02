@@ -1,22 +1,24 @@
 # 👋 Hi, I'm DIVYA-3112!  
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3F88C5&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer.;Coding+is+fun!+%F0%9F%92%BB" alt="Typing Animation"/>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/123456789?s=400&v=4" alt="Profile Picture" height="150" style="border-radius: 50%;"/>
+<div align="left">
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <div>
+      ### 👩‍💻 About Me  
+      - 🌱 I’m currently learning **[Your Learning Focus]**.  
+      - 🎯 Goal: Master **[Your Goals]**.  
+      - 🛠 Passionate about **[Your Interests/Technologies]**.  
+      - 💬 Ask me about **[Your Expertise]**.  
+      - 📫 Reach me at **[your.email@example.com]**.
+    </div>
+    <img src="https://avatars.githubusercontent.com/u/123456789?s=400&v=4" alt="Profile Picture" height="150" style="border-radius: 50%; margin-left: 20px;"/>
+  </div>
 </div>
-
----
-
-### 👩‍💻 About Me
-- 🌱 I’m currently learning **[Your Learning Focus]**.  
-- 🎯 Goal: Master **[Your Goals]**.  
-- 🛠 Passionate about **[Your Interests/Technologies]**.  
-- 💬 Ask me about **[Your Expertise]**.  
-- 📫 Reach me at **[your.email@example.com]**.
 
 ---
 
