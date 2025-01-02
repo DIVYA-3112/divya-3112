@@ -1,5 +1,15 @@
-# 👋 Hello, I'm DIVYA-3112!  
-![Animated Wave](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+# 👋 Hi, I'm DIVYA-3112!  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3F88C5&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer.;Coding+is+fun!+%F0%9F%92%BB" alt="Typing Animation"/>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/123456789?s=400&v=4" alt="Profile Picture" height="150" style="border-radius: 50%;"/>
+</div>
+
+---
 
 ### 👩‍💻 About Me
 - 🌱 I’m currently learning **[Your Learning Focus]**.  
@@ -12,11 +22,11 @@
 
 ### 🛠️ Technologies & Tools
 <p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" alt="C++"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" height="35"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" height="35"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++" height="35"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" height="35"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" height="35"/>
 </p>
 
 ---
@@ -32,16 +42,16 @@
 ### 🌐 Let's Connect!
 <p>
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="35"/>
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat-square" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" height="35"/>
   </a>
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?logo=github&logoColor=white&style=flat-square" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-000000?logo=github&logoColor=white&style=for-the-badge" alt="Portfolio" height="35"/>
   </a>
   <a href="https://leetcode.com/DIVYA-3112" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat-square" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode" height="35"/>
   </a>
 </p>
 
@@ -55,13 +65,6 @@
 - 🌟 **[Project Name 2](https://github.com/DIVYA-3112/Project2)**  
   <img src="https://raw.githubusercontent.com/DIVYA-3112/some-repo-name/master/assets/preview2.gif" alt="Project 2 Preview" height="120px"/>  
   Another project description.
-
----
-
-### ✨ Fun Animations!
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3F88C5&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer.;Coding+is+fun!+%F0%9F%92%BB" alt="Typing Animation"/>
-</p>
 
 ---
 
