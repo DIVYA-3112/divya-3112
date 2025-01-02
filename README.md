@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **DIVYA-3112**! 🚀
+# 👋 Hi, I'm **Divya Thakkar 😊**! 🚀
 
 Welcome to my GitHub profile! I'm a passionate coder always eager to learn new technologies and build cool projects.
 
@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a passionate coder always eager to learn new t
 - 🌱 I’m learning **Machine Learning** and **Web Development**.
 - 👯 I’m looking to collaborate on open-source projects and coding challenges.
 - 🤔 I’m looking for help with **algorithms** and **coding interviews**.
-- 💬 Ask me about **Python**, **JavaScript**, **React**, and anything related to **coding**!
-- 📫 How to reach me: [Email](mailto:divya3112@example.com)
-- 😄 Pronouns: She/Her
+- 💬 Ask me about **DSA**, **JavaScript**, **Node.js**, and anything related to **coding**!
+- 📫 How to reach me: [Divya Thakkar](mailto:divyathakkar4000@example.com)
+- 😄 Pronouns: He/Him
 
 ## 🔧 Technologies & Tools
 ### Languages
@@ -43,10 +43,6 @@ Welcome to my GitHub profile! I'm a passionate coder always eager to learn new t
 
 ## 📈 Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DIVYA-3112&theme=dark)
-
-## 📂 Some of My Repositories:
-- [Project 1: Awesome Web App](https://github.com/DIVYA-3112/project1)
-- [Project 2: Machine Learning Algorithms](https://github.com/DIVYA-3112/project2)
 
 ---
 
