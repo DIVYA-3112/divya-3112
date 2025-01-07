@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Divya Thakkar 😊**! 🚀
+# 👋 Hi, I'm **Divya Thakkar **! 🚀
 
 Welcome to my GitHub profile! I'm a passionate coder always eager to learn new technologies and build cool projects.
 
