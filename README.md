@@ -43,6 +43,7 @@ Welcome to my GitHub profile! I'm a passionate coder always eager to learn new t
 
 ## 📈 Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DIVYA-3112&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DIVYA-3112&show_icons=true&theme=radical)
 
 ---
 
