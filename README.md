@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate coder always eager to learn new t
 - 👯 I’m looking to collaborate on open-source projects and coding challenges.
 - 🤔 I’m looking for help with **algorithms** and **coding interviews**.
 - 💬 Ask me about **DSA**, **JavaScript**, **Node.js**, and anything related to **coding**!
-- 📫 How to reach me: [Divya Thakkar](mailto:divyathakkar4000@example.com)
+- 📫 How to reach me: [Divya Thakkar](mailto:divyathakkar4000@gmail.com)
 - 😄 Pronouns: He/Him
 
 ## 🔧 Technologies & Tools
